@@ -1,0 +1,22 @@
+.nav ul {
+    list-style: none;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+}
+
+.nav li {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.2em;
+    line-height: 20px;
+    height: 20px;
+    border-bottom: 2px solid #888;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+    color: #4b1010;
+    text-decoration: none;
+}
